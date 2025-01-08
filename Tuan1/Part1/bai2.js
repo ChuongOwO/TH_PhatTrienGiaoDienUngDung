@@ -21,11 +21,11 @@ let markHigherBMI1 = MarkBMI1 > JohnBMI1;
 //Console 1
 console.log('Bộ dữ liệu test 1');
 console.log('BMI của Mark:', MarkBMI1.toFixed(2));
-console.log('BMI của Joh:', JohnBMI1.toFixed(2));
+console.log('BMI của John:', JohnBMI1.toFixed(2));
 if(markHigherBMI1){
     console.log('BMI của Mark hơn John'); 
 } else{
-    console.log('BMI của John hơn MarkMark'); 
+    console.log('BMI của John hơn Mark'); 
 }
 
 
@@ -38,10 +38,10 @@ let markHigherBMI2 = MarkBMI2 > JohnBMI2;
 //Console 2
 console.log('Bộ dữ liệu test 2');
 console.log('BMI của Mark:', MarkBMI2.toFixed(2));
-console.log('BMI của Joh:', JohnBMI2.toFixed(2));
+console.log('BMI của John:', JohnBMI2.toFixed(2));
 if(markHigherBM2){
     console.log('BMI của Mark hơn John'); 
 } else{
-    console.log('BMI của John hơn MarkMark'); 
+    console.log('BMI của John hơn Mark'); 
 }
 
